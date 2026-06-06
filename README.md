@@ -31,7 +31,7 @@ CEMS is a professional-grade, web-based platform designed to streamline event re
 3. **Configuration:** - Open `config/db.php`.
    - Update your database credentials (`DB_HOST`, `DB_NAME`, `DB_USER`, `DB_PASS`) to match your local environment.
 4. **Access the Application:**
-   - Open your browser and navigate to `http://localhost/CFMS/index.php`.
+   - Open your browser and navigate to `http://localhost/CEMS/index.php`.
    - Use the login link to access the Staff/Organizer panel.
 
 ## Project Structure
